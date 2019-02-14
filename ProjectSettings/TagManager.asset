@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Fire
+  - Aircraft
+  - Soldier
+  - Vehicle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - LivingEnemy
+  - FlyingEnemy
+  - MachineEnemy
+  - Map
+  - AntiFlyingTower
+  - AntiGroundTower
+  - AntiFlyingBullet
+  - AntiGroundBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2724197283
+    locked: 0
+  - name: EnemyBottom
+    uniqueID: 4243262187
+    locked: 0
+  - name: EnemyTop
+    uniqueID: 2409500523
+    locked: 0
+  - name: Middleground
+    uniqueID: 3221645105
+    locked: 0
+  - name: FlyingEnemyBottom
+    uniqueID: 2720499439
+    locked: 0
+  - name: FlyingEnemyTop
+    uniqueID: 3603773855
+    locked: 0
+  - name: Foreground
+    uniqueID: 2564411091
+    locked: 0
